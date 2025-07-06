@@ -1,0 +1,30 @@
+# === Python cache and compiled files ===
+__pycache__/
+*.py[cod]
+*.pyo
+
+# === SQLite Database ===
+*.db
+
+# === Excel Exports ===
+*.xlsx
+
+# === Matplotlib cache (if any) ===
+.matplotlib/
+
+# === OS-specific files ===
+.DS_Store        # macOS
+Thumbs.db        # Windows
+desktop.ini      # Windows
+
+# === IDE/Editor settings ===
+.vscode/
+.idea/
+
+# === Environment/configuration ===
+.env
+*.env
+
+# === Logs or temporary files (optional) ===
+*.log
+*.tmp
