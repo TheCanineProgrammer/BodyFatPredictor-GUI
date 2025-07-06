@@ -29,7 +29,7 @@ A desktop app built with **Tkinter**, **SQLite**, and **scikit-learn** that pred
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/BodyFatPredictor-GUI.git
+git clone https://github.com/TheCanineProgrammer/BodyFatPredictor-GUI.git
 cd BodyFatPredictor-GUI
 ```
 
